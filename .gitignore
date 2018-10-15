@@ -62,3 +62,4 @@ typings/
 
 # custom
 server/config/config.json
+.DS_Store
