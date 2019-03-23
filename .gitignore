@@ -64,4 +64,5 @@ variables.env
 
 # custom
 server/config/config.json
+package-lock.json
 .DS_Store
